@@ -9,6 +9,7 @@ Redesigned the Tanitian tourism website to enhance user experience and boost tou
 
 
 <h2>Skills Utilized: </h2>
+
 - <b>User Experience Design</b> 
 - <b>Usability Testing and Feedback Analysis</b> 
 - <b>Wireframe and Prototype Development</b> 
@@ -17,6 +18,7 @@ Redesigned the Tanitian tourism website to enhance user experience and boost tou
 
 
 <h2>Key Responsibilities: </h2>
+
 - <b>Timeline Creation: Developed a comprehensive timeline for UX design activities using project management software.</b> 
 - <b>Persona Development: Created a user persona based on survey results and background information about Taniti.</b> 
 - <b>Wireframe Design: Designed a low-fidelity wireframe illustrating the suggested website flow and layout.</b> 
